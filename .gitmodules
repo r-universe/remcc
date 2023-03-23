@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesTree"]
+	path = BayesTree
+	url = https://github.com/cran/BayesTree
+	shallow = true
+	registered = true
+[submodule "rbart"]
+	path = rbart
+	url = https://github.com/cran/rbart
+	shallow = true
+	registered = true
