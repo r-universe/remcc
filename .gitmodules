@@ -5,6 +5,3 @@
 [submodule "BayesTree"]
 	path = BayesTree
 	url = https://github.com/cran/BayesTree
-[submodule "rbart"]
-	path = rbart
-	url = https://github.com/cran/rbart
